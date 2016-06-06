@@ -1,2 +1,1 @@
-# watercolor-pigment
-Watercolor pigment experiments
+Watercolor pigments I use
